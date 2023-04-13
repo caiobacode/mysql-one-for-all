@@ -1,6 +1,8 @@
 <h1 align="center">🐬 MySQL One-For-All 🐬</h1>
 
-<img src='./mysql.jpg'/><br/>
+<div align='center'>
+<img width='350' alt="docker-img" src='./mysql.jpg'>
+</div><br>
 
 ## Description
 <p>In this project, I had to create a database called SpotifyClone and its tables from scratch, and then make 10 custom queries, some counting how many times a song was played, others counting how many users pay for the personal plan.
