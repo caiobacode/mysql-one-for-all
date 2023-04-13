@@ -4,4 +4,4 @@ INNER JOIN SpotifyClone.musics AS musc ON mus.music_id = musc.music_id
 
 GROUP BY music_name
 ORDER BY reproducoes DESC, music_name
-LIMIT 2;  
+LIMIT 2;
